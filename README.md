@@ -1,0 +1,2 @@
+# DAE-RespondER
+L'App DAE RespondER è stata sviluppata dal Sistema 118 con l'obiettivo di contribuire a ridurre i tempi di intervento sui CODICI BLU, ovvero sui casi di Arresto Cardio Respiratorio (ACR) presunto, che si verificano sul territorio della Regione Emilia Romagna. Si tratta di uno strumento informatico completamente integrato con le Centrali Operative 118 della Regione, che permette di allertare rapidamente i DAE Responder e gestire la mappatura regionale dei DAE sul territorio. 
