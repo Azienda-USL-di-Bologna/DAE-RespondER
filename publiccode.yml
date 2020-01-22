@@ -103,9 +103,20 @@ description:
       emergenza, ed anche gestire le informazioni relative alle scadenze di
       manutenzioni, con l’obiettivo futuro di rendere sempre più efficace il
       monitoraggio della presenza dei DAE sul territorio.
+      
+      Sono stati pubblicati 3 moduli applicativi con relativi codici sorgente che
+      riguardano :
+      
+      - Modulo Login
+      - Modulo Gestione e Visualizzazione Mappa Dae
+      - Modulo Rhythm
+      
+      Per la corretta funzionalità dei moduli occorre creare una infrastruttura "server"
+      che possa ospitare la componente database e la componente web server.
 
       L’app presenta infine una sezione documentale nelle quali sono riportati
       link di interesse, FAQ, Procedure ecc.
+      
     features:
       - App per allertamento
       - Modulo per gestione dei DAE
@@ -116,7 +127,7 @@ description:
       - DAE_chiama.png
       - DAE_home.png
       - DAE_localizzazione.png
-      - DAE_Login.png
+      - DAE_Login.png 
       - DAE_menù.png
       - DAE_nuovo.png
       - DAE_profilo_utente.png
