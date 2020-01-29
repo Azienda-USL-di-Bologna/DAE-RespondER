@@ -33,7 +33,7 @@ legal:
   license: EUPL-1.2
   mainCopyrightOwner: Azienda USL di Bologna
   repoOwner: Donatella Del Giudice
-  authorsFile: Donatella Del Giudice
+  authorsFile: AUTHORS.txt 
 intendedAudience:
   countries:
     - it
