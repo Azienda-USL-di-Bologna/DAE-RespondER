@@ -4,7 +4,7 @@
 
 publiccodeYmlVersion: '0.2'
 name: DAE RespondER
-url: 'https://github.com/Azienda-USL-di-Bologna'
+url: 'https://github.com/Azienda-USL-di-Bologna/DAE-RespondER'
 releaseDate: '2019-09-30'
 developmentStatus: stable
 softwareVersion: 2.1.0
@@ -28,7 +28,7 @@ maintenance:
   contractors:
     - name: Engineering Ingegneria Informatica S.p.A.
       until: '2020-06-30'
-      website: www.eng.it
+      website: "https://www.eng.it"
 legal:
   license: EUPL-1.2
   mainCopyrightOwner: Azienda USL di Bologna
