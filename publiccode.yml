@@ -13,9 +13,7 @@ platforms:
   - android
   - ios
 usedBy:
-  - Centrali 118 Emilia Romagna
-  - 'Responder laici '
-  - Gestori del soccorso sanitario
+  - Centrali 118 Emilia Romagna  
 logo: DAE_logo.PNG
 categories:
   - digital-citizenship
